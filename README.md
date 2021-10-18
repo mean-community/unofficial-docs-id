@@ -23,7 +23,7 @@ The MeanFi application can be found here: [app.meanfi.com](https://app.meanfi.co
 
 ## What will I find on this website?
 
-The goal of this website is to present a variety of tutorials, getting started guides, and investment strategies that utilize the MeanFi. Topic samples include managing money streams, DCA, vaults, borrowing and repayments, and how to integrate Mai Finance into other DeFi protocols/strategies. 
+The goal of this website is to present a variety of tutorials, getting started guides, and investment strategies that utilize the MeanFi. Topic samples include managing money streams, DCA, vaults, borrowing and repayments, and how to integrate Mean Finance into other DeFi protocols/strategies. 
 
 Lastly, information on how to efficiently use Mean DAO's native token, MEAN, will be provided, as they develop.
 
