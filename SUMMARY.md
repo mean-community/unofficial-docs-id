@@ -1,30 +1,30 @@
 # Table of contents
 
-* [Unofficial Guide to MeanFi](README.md)
+* [Panduan Tidak Resmi untuk MeanFi](README.md)
 
-## Getting Started
+## Langkah Untuk Memulai
 
-* [Connecting your Wallet](getting-started/connecting-to-meanfi.md)
-* [Accounts](getting-started/accounts.md)
-* [Exchange](getting-started/your-wallet.md)
-* [Transfers](getting-started/transfers.md)
-* [Deposits](getting-started/deposits.md)
-* [Withdrawals](getting-started/withdrawals.md)
-* [Tools & Services](getting-started/tools-and-services.md)
+* [Menghubungkan Dompet Anda](langkah-untuk-memulai/connecting-to-meanfi.md)
+* [Akun](langkah-untuk-memulai/accounts.md)
+* [Penukaran](langkah-untuk-memulai/your-wallet.md)
+* [Transfer](langkah-untuk-memulai/transfers.md)
+* [Deposito](langkah-untuk-memulai/deposits.md)
+* [Penarikan](langkah-untuk-memulai/withdrawals.md)
+* [Tools & Services](langkah-untuk-memulai/tools-and-services.md)
 
-## Mean University
+## Kampus Mean
 
-* [Dollar Cost Averaging](mean-university/dollar-cost-averaging.md)
-* [Remittances](mean-university/remittances.md)
-* [Payroll & Salaries](mean-university/payroll-and-salaries.md)
+* [Rata-rata Biaya Dolar](kampus-mean/dollar-cost-averaging.md)
+* [Pengiriman uang](kampus-mean/remittances.md)
+* [Upah & Gaji](kampus-mean/payroll-and-salaries.md)
 
-## Medium Articles
+## Artikel Medium
 
-* [The Mean Protocol and MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
+* [Protokol Mean dan MeanFi](artikel-medium/the-mean-protocol-and-meanfi.md)
 
-## Get involved
+## Link Yang Bersangkutan
 
-* [App](https://app.meanfi.com)
+* [Aplikasi](https://app.meanfi.com)
 * [Website](https://meanfi.com)
 * [Discord](https://discord.meanfi.com)
 * [Twitter](https://twitter.com/meanfinance)
