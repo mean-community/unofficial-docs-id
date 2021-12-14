@@ -21,6 +21,7 @@
 ## Artikel Medium
 
 * [Protokol Mean dan MeanFi](artikel-medium/the-mean-protocol-and-meanfi.md)
+* [Launching Mean Ditunda Selama 7 Hari](artikel-medium/launching-mean-ditunda-selama-7-hari.md)
 
 ## Link Yang Bersangkutan
 
